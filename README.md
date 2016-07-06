@@ -1,2 +1,2 @@
-# video player project uses Redux Simple starter
+## video player project uses Redux Simple starter
 
